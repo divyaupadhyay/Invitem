@@ -1,0 +1,5 @@
+.bg.print {
+    display: list-item;
+    list-style-image: url("../../img/a.jpg");
+    list-style-position: inside;
+}

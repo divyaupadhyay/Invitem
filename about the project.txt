@@ -1,0 +1,28 @@
+//******************************Created by Divya Upadhyay***************************************
+//************************************For The Elitists******************************************
+
+Name of the blogging platform: Blogway
+
+Description: Blogway is a minimilastic blooging platform which allows the user to choose a template from a beautiful gallery of pre-defined templates. The user can add posts to the blog and voice his opinions out to the world.
+
+Technology used: HTML, CSS, Javascript, PHP
+
+Framework used: Twitter Bootstrap
+
+
+*****************************************************************************************************
+More details:
+
+The website begins with a dark themed cover page which briefs the user about its purpose. Upon entering the same, the user is required to sign in with a Name and Password.
+
+(In this case Name=harry and Password=harry)
+
+Then, the user is taken to a gallery of templates and is asked to choose. He can aslo decide to set a name for his Blog.
+
+After this, the user can create a new blog post and then see it live on his blog.
+
+******************************************************************************************************
+
+The entire UI is very elegant and the site is very light-weight. The process flow is highly intuitive.
+
+

@@ -1,0 +1,8 @@
+.bg {
+    background: url("../../img/a.jpg") top left repeat-y;
+    background-repeat: repeat-y;
+    position: absolute;
+    z-index: -1;
+    width:100%;
+    height: 105%;
+}
