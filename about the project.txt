@@ -1,9 +1,9 @@
 //******************************Created by Divya Upadhyay***************************************
-//************************************For The Elitists******************************************
+//******************************************************************************
 
 Name of the blogging platform: Blogway
 
-Description: Blogway is a minimilastic blooging platform which allows the user to choose a template from a beautiful gallery of pre-defined templates. The user can add posts to the blog and voice his opinions out to the world.
+Description: Blogway is a minimilastic blogging platform which allows the user to choose a template from a beautiful gallery of pre-defined templates. The user can add posts to the blog and voice his opinions out to the world.
 
 Technology used: HTML, CSS, Javascript, PHP
 
